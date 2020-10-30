@@ -1,0 +1,27 @@
+.image{
+    width: 60%;
+    float: left;
+    padding: 5px;
+}
+
+
+.container{
+    background-color:lightblue;
+  margin-left: 20px;
+  margin-top: 80px;
+  padding-left: 45px;
+   
+}
+
+.row{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+p{
+    color: black;
+}
