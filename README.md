@@ -1,6 +1,6 @@
 # Randy Lofgren's Portfolio 
 
-## It has three sections, a Bio, a Portfolio, and a Contact page. It uses mostly Bootstrap with a responsive layout. 
+### It has three sections, a Bio, a Portfolio, and a Contact page. It uses mostly Bootstrap with a responsive layout. 
 
 ### I've added 1 group project and 2 class assignments and 1 personal project 
 
